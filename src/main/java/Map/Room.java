@@ -34,7 +34,7 @@ public class Room {
     }
 
     public ArrayList<Exit> getExits() {
-        return exits;
+        return (ArrayList<Exit>) exits;
     }
 
     public void setExits(ArrayList<Exit> exits) {
