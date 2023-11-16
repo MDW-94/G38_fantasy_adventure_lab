@@ -28,5 +28,7 @@ After successfully implementing combat into the program, a Room class was create
 👁️  - Pull repository into file directory  
 👁️  - Run tests in test directory test/java - right click and hit run all to run all tests regarding above brief  
 
+## Continued Development:
 
+  - Lightweight Java Game Library
 
